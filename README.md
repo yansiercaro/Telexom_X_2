@@ -77,6 +77,22 @@ datos_tratados.csv: Dataset procesado utilizado para el entrenamiento.
 
 README.md: Documentación del proyecto.
 
+# 🚀 Instrucciones de Ejecución
+Requisitos Previos
+Asegúrate de tener instalada la versión 3.8+ de Python.
+
+1. Instalación de Bibliotecas
+Instala las dependencias necesarias con el siguiente comando:
+
+pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn jupyter
+
+2. Carga de Datos
+El cuaderno está configurado para leer automáticamente el archivo datos_tratados.csv. Asegúrate de que el archivo CSV se encuentre en la misma carpeta que el cuaderno .ipynb.
+
+3. Ejecución
+Inicia el entorno de Google Colab y ejecuta las celdas en orden secuencial.
+
+
 # 🛠️ Soporte Técnico y Contacto
 
 Si tienes alguna duda sobre la implementación, encuentras algún error en el código o deseas colaborar en una mejora del modelo, no dudes en ponerte en contacto:
